@@ -1,8 +1,12 @@
-## Welcome to My Personal Blog
+## Welcome to My home page
 
 <img src=".\pic\ghm.png" width = "300" height = "300" alt="ghm" align="left"/>
 
 ## Haiming Gao (高海明）
+
+[<img src=".\pic\github.jpg" width = "40" height = "" alt="github" align="left"/>](http://github.com/ghm0819)[<img src=".\pic\csdn.jpg" width = "40" height = "" alt="csdn" align="left"/>](https://blog.csdn.net/qq_24893115)[<img src=".\pic\gs.png" width = "40" height = "" alt="scholar" align="left"/>](https://scholar.google.com.hk/citations?user=Vz_6DDwAAAAJ&hl=zh-CN&oi=ao)[<img src=".\pic\rg.png" width = "40" height = "" alt="research" align="left"/>](https://www.researchgate.net/profile/Haiming-Gao-2)
+
+
 
 ###  Biography
 
@@ -11,11 +15,6 @@ I received the **B.S. degree** in mechanical engineering and automation from **H
 From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IAS BU** (Huawei Intelligent Automotive Solution), with research interests include **freespace extraction**, **APA**(Auto Parking Asist) and **AVP**(Automated Valet Parking). He is currently a Research Fellow with **Zhejiang Lab**.
 
 His research interests include **localization** and **perception** for **intelligent vehicles** and **mobile robots**.
-
-[<img src=".\pic\github.jpg" width = "40" height = "" alt="github" align="left"/>](http://github.com/ghm0819)[<img src=".\pic\csdn.jpg" width = "40" height = "" alt="csdn" align="left"/>](https://blog.csdn.net/qq_24893115)[<img src=".\pic\gs.png" width = "40" height = "" alt="scholar" align="left"/>](https://scholar.google.com.hk/citations?user=Vz_6DDwAAAAJ&hl=zh-CN&oi=ao)[<img src=".\pic\rg.png" width = "40" height = "" alt="research" align="left"/>](https://www.researchgate.net/profile/Haiming-Gao-2)
-
-
-
 
 
 ### Publications
