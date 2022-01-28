@@ -18,8 +18,6 @@ His research interests include **localization** and **perception** for **intelli
 
 
 
-
-
 ### Publications
 
 + [1] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, Y. Fang, A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442.
