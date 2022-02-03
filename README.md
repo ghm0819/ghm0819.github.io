@@ -29,9 +29,10 @@ His research interests include **localization** and **perception** for **intelli
 + [6] C. Li, X. Zhang\*, **H. Gao**, R. Wang, Y. Fang, Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Trans. on Automation Science and Engineering***, 2021, Early Access.
 + [7] J. Wen, X. Zhang\*, **H. Gao**, et al. , CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Trans. on Instrumentation and Measurement***, 2020, 69(7): 4222-4237.
 + [8] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J].机器人,2020,42(06):641-650.
-+ [9] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, Y. Fang, EffMoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Trans. on Automation Science and Engineering***, 2021, under second review. 
-+ [10] J. Song, **H. Gao**, X. Zhang\*, W. Lin, J. Liu, A global localization algorithm for mobile robots based on grid submaps. ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**)
-+ [11] J. Wang, X. Zhang\*, **H. Gao**, Y. Fang, Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. (**Best Conference Paper Finalist**)
++ [9] **H. Gao**, X. Zhang\*, J. Yuan, Y. Fang, NEGL: An efficient neighborhood encoding-based approach for global Localization with distance-driven multiple hypothesis tracking, ***IEEE/ASME TRANSACTIONS ON MECHATRONICS***, 2022, in revision. 
++ [10] J. Song, **H. Gao**, X. Zhang\*, W. Lin, J. Liu, A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**)
++ [11]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, Y. Fang, A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**)
++ [12] J. Wang, X. Zhang\*, **H. Gao**, Y. Fang, Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. 
 + ...
 
 
