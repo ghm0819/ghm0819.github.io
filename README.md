@@ -1,6 +1,6 @@
 ## Welcome to My home page
 
-<img src=".\pic\ghm.png" width = "300" height = "300" alt="ghm" align="left"/>
+<img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm" align="left"/>
 
 ## Haiming Gao (高海明）
 
@@ -19,18 +19,22 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Publications
 
-+ [1] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, Y. Fang, A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442.
-+ [2] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, Y. Fang, Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Trans. on Automation Science and Engineering***, 2019, 16(4): 1531-1542.
-+ [3] **H. Gao**, X. Zhang\*, Y. Fang, J. Yuan, A line segment extraction algorithm using laser data based on seeded region growing, ***Int. Journal of Advanced Robotic Systems***, 2018, 15(1): 1-10.
-+ [4] **H. Gao**, X. Zhang\*, C. Li, X. Chen, Y. Fang, X. Chen, Directional endpoint-based enhanced EKF-SLAM for indoor mobile robots, ***IEEE/ASME International Conference on Advanced Intelligent Mechatronics***, pp. 978-983, 2019.
-+ [5] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, Y. Fang, E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Trans. on Automation Science and Engineering***, 2021, Early Access.
-+ [6] C. Li, X. Zhang\*, **H. Gao**, R. Wang, Y. Fang, Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Trans. on Automation Science and Engineering***, 2021, Early Access.
-+ [7] J. Wen, X. Zhang\*, **H. Gao**, et al. , CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Trans. on Instrumentation and Measurement***, 2020, 69(7): 4222-4237.
-+ [8] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J].机器人,2020,42(06):641-650.
-+ [9] **H. Gao**, X. Zhang\*, J. Yuan, Y. Fang, NEGL: An efficient neighborhood encoding-based approach for global Localization with distance-driven multiple hypothesis tracking, ***IEEE/ASME TRANSACTIONS ON MECHATRONICS***, 2022, in revision. 
-+ [10] J. Song, **H. Gao**, X. Zhang\*, W. Lin, J. Liu, A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**)
-+ [11]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, Y. Fang, A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**)
-+ [12] J. Wang, X. Zhang\*, **H. Gao**, Y. Fang, Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. 
++ [1] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans.on Vehicular Technology***, 2023, doi: 10.1109/TVT.2023.3239213.
++ [2] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, and Y. Fang. A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442.
++ [3] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, and Y. Fang. Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Trans. on Automation Science and Engineering***, 2019, 16(4): 1531-1542.
++ [4] **H. Gao**, X. Zhang\*, Y. Fang, and J. Yuan. A line segment extraction algorithm using laser data based on seeded region growing, ***Int. Journal of Advanced Robotic Systems***, 2018, 15(1): 1-10.
++ [5] **H. Gao**, X. Zhang\*, C. Li, X. Chen, Y. Fang, and X. Chen. Directional endpoint-based enhanced EKF-SLAM for indoor mobile robots, ***IEEE/ASME International Conference on Advanced Intelligent Mechatronics***, pp. 978-983, 2019.
++ [6] **H. Gao**, Q. Qiu, S Zhang, W. Hua\*, Z. Su, and X. Zhang. MPC-MF: Multi-point cloud map fusion based on offline global optimization for mobile robots, ***2023 Chinese Control Conference (CCC)***, Accepted.
++ [7] Q. Qiu, H. Gao, W. Hua, G. Huang, and X. He. PriorLane: A prior knowledge enhanced lane detection approach based on transformer, ***IEEE International Conference on Robotics and Automation (ICRA)***, 2023, Accepted.
++ [8] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Trans. on Automation Science and Engineering***, 2022, 19(4): 2762-2775.
++ [9] C. Li, X. Zhang\*, **H. Gao**, R. Wang, and Y. Fang. Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Trans. on Automation Science and Engineering***, 2022, 19(3): 2245-2255.
++ [10] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Trans. on Instrumentation and Measurement***, 2020, 69(7): 4222-4237.
++ [11] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J].机器人,2020,42(06):641-650.
++ [12] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Transactions on Industrial Electronics***, 2022, Major Revision (preprint arXiv:2206.06635). 
++ [13] Q. Qiu, **H. Gao**, W. Wang, Z Su, T. Xie, W. Hua\*, X. He. SelFLoc: Selective feature fusion for largescale point cloud-based place recognition. ***IEEE Transactions on Neural Networks and Learning Systems***, Under Review. 
++ [14] J. Song, **H. Gao**, X. Zhang\*, W. Lin, and J. Liu. A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**)
++ [15]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**)
++ [16] J. Wang, X. Zhang\*, **H. Gao**, and Y. Fang. Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. 
 + ...
 
 
@@ -56,6 +60,10 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 
 ### Reviewer
+
++ IEEE Transactions on Intelligent Transportation Systems
+
++ IEEE Transactions on Intelligent Vehicles
 
 + IEEE/ASME Transactions on Mechatronics
 
