@@ -1,7 +1,6 @@
 ## Welcome
 
-<img src=".\pic\ghm.png" width = "400" height = "400" alt="ghm" align="left"/>\
-
+![Experimental_setup](./pic/ghm.png)
 
 
 ## Haiming Gao (高海明）
