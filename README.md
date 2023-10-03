@@ -68,9 +68,7 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Reviewer
 
-+ IEEE Transactions on Intelligent Transportation Systems
-
-+ 
++ IEEE Transactions on Automation Science and Engineering
 
 + IEEE/ASME Transactions on Mechatronics
 
@@ -81,6 +79,8 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 + IEEE Robotics and Automation Letters
 
 + IEEE Transactions on Intelligent Vehicles
+
++ IEEE Transactions on Intelligent Transportation Systems
 
 + IEEE Sensors Journal
 
