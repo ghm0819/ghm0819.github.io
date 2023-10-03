@@ -1,6 +1,6 @@
 ## Welcome
 
-<img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm" align="left"/>
+<img src=".\pic\ghm.png" width = "400" height = "400" alt="ghm" align="left"/>
 
 
 
