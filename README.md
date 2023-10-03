@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to My Academic Page
 
 <p align = "left">    
   <img src=".\pic\ghm.png" width = "350" height = "350" alt="gaohaiming"/>
