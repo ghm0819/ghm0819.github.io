@@ -2,6 +2,16 @@
 
 <img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm" align="left"/>
 
+
+
+
+
+
+
+
+
+
+
 ## Haiming Gao (高海明）
 
 [<img src=".\pic\github.jpg" width = "40" height = "" alt="github" align="left"/>](http://github.com/ghm0819)[<img src=".\pic\csdn.jpg" width = "40" height = "" alt="csdn" align="left"/>](https://blog.csdn.net/qq_24893115)[<img src=".\pic\gs.png" width = "40" height = "" alt="scholar" align="left"/>](https://scholar.google.com.hk/citations?user=Vz_6DDwAAAAJ&hl=zh-CN&oi=ao)[<img src=".\pic\rg.png" width = "40" height = "" alt="research" align="left"/>](https://www.researchgate.net/profile/Haiming-Gao-2)
@@ -15,8 +25,8 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Publications
 
-+ [1] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2023, Accepted. [code](https://github.com/ghm0819/cvr_lse) / [arxiv](https://arxiv.org/abs/2206.06635)
-+ [2] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans.on Vehicular Technology***, 2023, 72(6): 7111 - 7122.
++ [1] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2023, Accepted. [[code](https://github.com/ghm0819/cvr_lse)] [[arxiv](https://arxiv.org/abs/2206.06635)]
++ [2] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans.on Vehicular Technology***, 2023, 72(6): 7111 - 7122. 
 + [3] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, and Y. Fang. A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442.
 + [4] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, and Y. Fang. Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Trans. on Automation Science and Engineering***, 2019, 16(4): 1531-1542.
 + [5] **H. Gao**, X. Zhang\*, Y. Fang, and J. Yuan. A line segment extraction algorithm using laser data based on seeded region growing, ***Int. Journal of Advanced Robotic Systems***, 2018, 15(1): 1-10.
