@@ -1,7 +1,7 @@
 ## Welcome
 
 <p align = "left">    
-  <img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm"/>
+  <img src=".\pic\ghm.png" width = "350" height = "350" alt="gaohaiming"/>
 </p>
 
 
