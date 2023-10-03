@@ -1,4 +1,4 @@
-## Welcome to My home page
+## 
 
 <img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm" align="left"/>
 
