@@ -1,6 +1,8 @@
 ## Welcome
 
-![gaohaiming](./pic/ghm.png =300x300)
+<p align = "left">    
+  <img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm"/>
+</p>
 
 
 ## Haiming Gao (高海明）
