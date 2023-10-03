@@ -1,6 +1,6 @@
 ## Welcome
 
-![Experimental_setup](./pic/ghm.png)
+![Experimental_setup](./pic/ghm.png){ width=50% height=auto }
 
 
 ## Haiming Gao (高海明）
