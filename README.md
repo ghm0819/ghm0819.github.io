@@ -1,6 +1,6 @@
 ## Welcome
 
-![gaohaiming](./pic/ghm.png#pic_left =300x300)
+![gaohaiming](./pic/ghm.png =300x300)
 
 
 ## Haiming Gao (高海明）
