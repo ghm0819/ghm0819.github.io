@@ -18,8 +18,7 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 
 ### Selected Grants
-+ Self-organizing Spatio-temporal Scene Graph Construction Towards Global Localization of Mobile Robots under Dynamic and Ambiguous Environments, 62303428, 2024.01-2026.12
-PI, National Natural Science Foundation of China
++ **2024.01-2026.12**, Self-organizing Spatio-temporal Scene Graph Construction Towards Global Localization of Mobile Robots under Dynamic and Ambiguous Environments, **62303428**,  PI, National Natural Science Foundation of China.
 
 
 ### Selected Publications
