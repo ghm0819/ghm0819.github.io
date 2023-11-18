@@ -1,18 +1,12 @@
-## 
+## Welcome to My Academic Page
 
-<img src=".\pic\ghm.png" width = "250" height = "250" alt="ghm" align="left"/>
-
-
-
-
-
-
-
-
-
+<p align = "left">
+  <img src=".\pic\ghm.png" width = "350" height = "350" alt="gaohaiming"/>
+</p>
 
 
 ## Haiming Gao (高海明）
+
 
 [<img src=".\pic\github.jpg" width = "40" height = "" alt="github" align="left"/>](http://github.com/ghm0819)[<img src=".\pic\csdn.jpg" width = "40" height = "" alt="csdn" align="left"/>](https://blog.csdn.net/qq_24893115)[<img src=".\pic\gs.png" width = "40" height = "" alt="scholar" align="left"/>](https://scholar.google.com.hk/citations?user=Vz_6DDwAAAAJ&hl=zh-CN&oi=ao)[<img src=".\pic\rg.png" width = "40" height = "" alt="research" align="left"/>](https://www.researchgate.net/profile/Haiming-Gao-2)
 
@@ -30,7 +24,7 @@ PI, National Natural Science Foundation of China
 
 ### Selected Publications
 
-+ [1] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2023, DOl: 10.1109/TIE.2023.3322016. [[code](https://github.com/ghm0819/cvr_lse)] [[arxiv](https://arxiv.org/abs/2206.06635)]
++ [1] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2023, DOl: 10.1109/TIE.2023.3322016. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
 + [2] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans.on Vehicular Technology***, 2023, 72(6): 7111 - 7122. [[paper](https://ieeexplore.ieee.org/document/10024765)]
 + [3] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, and Y. Fang. A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442. [[paper](https://ieeexplore.ieee.org/document/8621041)] [[video](https://www.youtube.com/watch?v=0MTvEsSSSz4)]
 + [4] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, and Y. Fang. Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Trans. on Automation Science and Engineering***, 2019, 16(4): 1531-1542. [[paper](https://ieeexplore.ieee.org/document/8573855)] [[video](https://www.youtube.com/watch?v=D2Ds_DYySRE)]
@@ -43,7 +37,7 @@ PI, National Natural Science Foundation of China
 + [11] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Trans. on Instrumentation and Measurement***, 2020, 69(7): 4222-4237. [[paper](https://ieeexplore.ieee.org/document/8882497)]
 + [12] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J].机器人,2020,42(06):641-650. [[论文](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXonRMFKNxjDxoxdhVwbsDLApY-eqH6_JAUvftlY0adeN-&uniplatform=NZKPT)]
 + [13] Q. Qiu, **H. Gao**, W. Wang, Z Su, T. Xie, W. Hua\*, X. He. SelFLoc: Selective feature fusion for largescale point cloud-based place recognition. ***IEEE Transactions on Neural Networks and Learning Systems***, Under Review. [[arxiv](https://arxiv.org/abs/2306.01205)]
-+ [14] Q. Qiu, H. Yang, W. Wang, S. Zhang, H. Gao, H. Ying, W. Hua, X. He. M$^3$CS: Multi-target masked point modeling with learnable codebook and siamese decoders. **AAAI-2024**, Under Review. [[arxiv](https://arxiv.org/abs/2309.13235)]
++ [14] Q. Qiu, H. Yang, W. Wang, S. Zhang, **H. Gao**, H. Ying, W. Hua, X. He. M³CS: Multi-target masked point modeling with learnable codebook and siamese decoders. **AAAI-2024**, Under Review. [[arxiv](https://arxiv.org/abs/2309.13235)]
 + [15] J. Song, **H. Gao**, X. Zhang\*, W. Lin, and J. Liu. A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**) [[paper](https://ieeexplore.ieee.org/document/8610874)]
 + [16]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**) [[paper](https://ieeexplore.ieee.org/document/8621744)]
 + [17] J. Wang, X. Zhang\*, **H. Gao**, and Y. Fang. Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. [[paper](https://ieeexplore.ieee.org/document/8324420)]
