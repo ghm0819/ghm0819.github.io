@@ -23,7 +23,12 @@ I received the **B.S. degree** in mechanical engineering and automation from **H
 From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IAS BU** (Huawei Intelligent Automotive Solution), with research interests include **freespace extraction**, **APA**(Auto Parking Asist) and **AVP**(Automated Valet Parking). I am currently a Research Fellow with **Zhejiang Lab**, and my research interests include **localization** and **perception** for **intelligent vehicles** and **mobile robots**.
 
 
-### Publications
+### Selected Grants
++ Self-organizing Spatio-temporal Scene Graph Construction Towards Global Localization of Mobile Robots under Dynamic and Ambiguous Environments, 62303428, 2024.01-2026.12
+PI, National Natural Science Foundation of China
+
+
+### Selected Publications
 
 + [1] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2023, DOl: 10.1109/TIE.2023.3322016. [[code](https://github.com/ghm0819/cvr_lse)] [[arxiv](https://arxiv.org/abs/2206.06635)]
 + [2] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans.on Vehicular Technology***, 2023, 72(6): 7111 - 7122. [[paper](https://ieeexplore.ieee.org/document/10024765)]
