@@ -12,9 +12,9 @@
 
 ###  Biography
 
-I received the **B.S. degree** in mechanical engineering and automation from **Hohai University** in 2015, and the **Ph.D. degree** in control science and engineering from [**RaHAIC**](https://rh.nankai.edu.cn/) (Robot Autonomy and Human-AI Collaboration)，the Institute of Robotics and Automatic Information System, **Nankai University** in 2020, supervised by [**Prof. Xuebo Zhang**](https://ai.nankai.edu.cn/info/1033/3984.htm). My research interest includes **localization** and **mapping** for **mobile robots**.
+I received the **B.S. degree** in mechanical engineering and automation from **Hohai University** in 2015, and the **Ph.D. degree** in control science and engineering from [**RaHAIC**](https://rh.nankai.edu.cn/) (Robot Autonomy and Human-AI Collaboration)， the Institute of Robotics and Automatic Information System, **Nankai University** in 2020, supervised by [**Prof. Xuebo Zhang**](https://ai.nankai.edu.cn/info/1033/3984.htm). My research interest includes **localization** and **mapping** for **mobile robots**.
 
-From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IAS BU** (Huawei Intelligent Automotive Solution), with research interests include **freespace extraction**, **APA** (Auto Parking Asist) and **AVP** (Automated Valet Parking). I am currently a Research Scientist (Associate Professor) with **Zhejiang Lab**, and my research interests include **localization** and **perception** for **intelligent vehicles** and **mobile robots**.
+From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IAS BU** (Huawei Intelligent Automotive Solution), with research interests including **freespace extraction**, **APA** (Auto Parking Assist), and **AVP** (Automated Valet Parking). I am currently a Research Scientist (Associate Professor) with **Zhejiang Lab**, and my research interests include **localization** and **perception** for **intelligent vehicles** and **mobile robots**.
 
 
 ### Selected Grants
