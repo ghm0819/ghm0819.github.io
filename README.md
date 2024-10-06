@@ -49,9 +49,9 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Awards
 
-+ 2023.12, **Excellent Employee**， Zhejiang Lab
++ 2023.12, **Excellent Employee**, Zhejiang Lab
 
-+ 2021.01, **Excellent New Employee**， Huawei Intelligent Automotive Solution
++ 2021.01, **Excellent New Employee**, Huawei Intelligent Automotive Solution
 
 + 2020.06, **Outstanding Graduate Award**, Nankai University
 
