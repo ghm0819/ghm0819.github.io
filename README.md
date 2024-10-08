@@ -23,7 +23,6 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 ### Selected Publications
 
 + [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang*, C. Wang, and X. Zhang, ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps, Under review, 2024. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/cseml5FrW1Q)]
-
   <p align = "left">
   <img src=".\pic\paper\ERPoT.png" width = "600" height = "230" alt="ERPoT"/>
   </p>
