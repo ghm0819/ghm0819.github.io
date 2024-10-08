@@ -25,9 +25,8 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 + [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang*, C. Wang, and X. Zhang, ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps, Under review, 2024. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/cseml5FrW1Q)]
 
 <p align = "left">
-<img src=".\pic\paper\ERPoT.png" width = "1000" height = "325" alt="ERPoT"/>
+<img src=".\pic\paper\ERPoT.png" width = "800" height = "280" alt="ERPoT"/>
 </p>
-
 
 + [2] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2024, 71(8): 9309-9318. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
 
