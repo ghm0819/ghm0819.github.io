@@ -26,6 +26,8 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
   <p align = "left">
   <img src=".\pic\paper\ERPoT.png" width = "600" height = "230" alt="ERPoT"/>
+  <br>
+  <p align="center">The process of Effective and Reliable Pose Tracking approach (ERPoT)</p>
   </p>
 
 + [2] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2024, 71(8): 9309-9318. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
