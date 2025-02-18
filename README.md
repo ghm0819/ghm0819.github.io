@@ -22,11 +22,12 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Selected Publications
 
-+ [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang*, C. Wang, and X. Zhang, ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps, Under review, 2024. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/cseml5FrW1Q)]
++ [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang*, C. Wang, and X. Zhang, ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps, Under review, 2024. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/6XdcXyUrLKw)]
+  
   <p align = "left">
   <img src=".\pic\paper\ERPoT.png" width = "600" height = "230" alt="ERPoT"/>
   </p>
-
+  
 + [2] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2024, 71(8): 9309-9318. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
 
 + [3] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans. on Vehicular Technology***, 2023, 72(6): 7111 - 7122. [[paper](https://ieeexplore.ieee.org/document/10024765)]
