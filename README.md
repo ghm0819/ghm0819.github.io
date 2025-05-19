@@ -22,23 +22,23 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 ### Selected Publications
 
-+ [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang\*, C. Wang, and X. Zhang, ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps, 2025, ***IEEE Transactions on Robotics***, accepted. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/6XdcXyUrLKw)]
++ [1] **H. Gao**, Q. Qiu, H. Liu, D. Liang\*, C. Wang, and X. Zhang, ERPoT: Effective and reliable pose tracking for mobile robots using lightweight polygon maps, 2025, ***IEEE Transactions on Robotics***, accepted. [[preprint](https://arxiv.org/abs/2409.14723)] [[code](https://github.com/ghm0819/ERPoT)] [[video](https://youtu.be/6XdcXyUrLKw)]
   
   <p align = "left">
   <img src=".\pic\paper\ERPoT.png" width = "600" height = "230" alt="ERPoT"/>
   </p>
   
-+ [2] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Trans. on Industrial Electronics***, 2024, 71(8): 9309-9318. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
++ [2] **H. Gao**, Q. Qiu, W. Hua\*, X. Zhang, Z. Su, S. Zhang, CVR-LSE: Compact vectorized representation of local static environments for reliable obstacle detection. ***IEEE Transactions on Industrial Electronics***, 2024, 71(8): 9309-9318. [[paper](https://ieeexplore.ieee.org/document/10287883)] [[code](https://github.com/ghm0819/cvr_lse)]
 
-+ [3] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Trans. on Vehicular Technology***, 2023, 72(6): 7111 - 7122. [[paper](https://ieeexplore.ieee.org/document/10024765)]
++ [3] **H. Gao**, X. Zhang\*, J. Yuan, and Y. Fang. NEGL: Lightweight and efficient neighborhood encoding-based global localization for unmanned ground vehicles, ***IEEE Transactions on Vehicular Technology***, 2023, 72(6): 7111 - 7122. [[paper](https://ieeexplore.ieee.org/document/10024765)]
 
-+ [4] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, and Y. Fang. A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Trans. on Instrumentation and Measurement***, 2019, 68(11): 4427-4442. [[paper](https://ieeexplore.ieee.org/document/8621041)] [[video](https://www.youtube.com/watch?v=0MTvEsSSSz4)]
++ [4] **H. Gao**, X. Zhang\*, J. Yuan, J. Song, and Y. Fang. A novel global localization approach based on structural unit encoding and multiple hypothesis tracking, ***IEEE Transactions on Instrumentation and Measurement***, 2019, 68(11): 4427-4442. [[paper](https://ieeexplore.ieee.org/document/8621041)] [[video](https://www.youtube.com/watch?v=0MTvEsSSSz4)]
 
-+ [5] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, and Y. Fang. Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Trans. on Automation Science and Engineering***, 2019, 16(4): 1531-1542. [[paper](https://ieeexplore.ieee.org/document/8573855)] [[video](https://www.youtube.com/watch?v=D2Ds_DYySRE)]
++ [5] **H. Gao**, X. Zhang\*, J. Wen, J. Yuan, and Y. Fang. Autonomous indoor exploration via polygon map construction and graph-based SLAM using directional endpoint features, ***IEEE Transactions on Automation Science and Engineering***, 2019, 16(4): 1531-1542. [[paper](https://ieeexplore.ieee.org/document/8573855)] [[video](https://www.youtube.com/watch?v=D2Ds_DYySRE)]
 
 + [6] **H. Gao**, X. Zhang\*, Y. Fang, and J. Yuan. A line segment extraction algorithm using laser data based on seeded region growing, ***Int. Journal of Advanced Robotic Systems***, 2018, 15(1): 1-10. [[paper](https://journals.sagepub.com/doi/epub/10.1177/1729881418755245)] [[code](https://github.com/NKU-MobFly-Robotics/laser-line-segment)] [[video](https://www.youtube.com/watch?v=yNN9NRioOBc)] (**Most read articles**)
 
-+ [7] Q. Qiu, W. Wang, H. Ying, D. Liang, **H. Gao\***, and X. He. Stacked Asymmetric Convolution and Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition. ***Knowledge-Based Systems***, 295: 111794, 2024. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004283?via%3Dihub)]
++ [7] Q. Qiu, W. Wang, H. Ying, D. Liang, **H. Gao\***, and X. He. Stacked asymmetric convolution and selective feature fusion for large-scale point cloud-based place recognition. ***Knowledge-Based Systems***, 295: 111794, 2024. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004283?via%3Dihub)]
 
 + [8] **H. Gao**, X. Zhang\*, C. Li, X. Chen, Y. Fang, and X. Chen. Directional endpoint-based enhanced EKF-SLAM for indoor mobile robots, ***IEEE/ASME International Conference on Advanced Intelligent Mechatronics***, pp. 978-983, 2019. [[paper](https://ieeexplore.ieee.org/document/8868577)] [[navigation demo](https://www.youtube.com/watch?v=cu_ZK6mHmj0)]
 
@@ -46,15 +46,15 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 + [10] Q. Qiu, H. Yang, J. Jiang, S. Zhang, H. Ying, **H. Gao**, W. Wang, and X. He. M³CS: Multi-target masked point modeling with learnable codebook and siamese decoders, ***IEEE Transactions on Circuits and Systems for Video Technology***, 2025, doi: 10.1109/TCSVT.2025.3553525. [[paper](https://ieeexplore.ieee.org/document/10937188)]
 
-+ [11] H Liu, **H. Gao**, J. Shi, C. Xu, D. Qu, and W. Hua. APMC-LOM: Accurate 3D LiDAR Odometry and Mapping based on Pyramid Warm-Up Registration and Multi-Constraint Optimization. ***IEEE Transactions on Vehicular Technology***, 2024, 73(12): 18266 - 18282. [[paper](https://ieeexplore.ieee.org/document/10666713)] [[code](https://github.com/BotWhiz/APMC-LOM)]
++ [11] H Liu, **H. Gao**, J. Shi, C. Xu, D. Qu, and W. Hua. APMC-LOM: Accurate 3D LiDAR odometry and mapping based on pyramid warm-up registration and multi-constraint optimization. ***IEEE Transactions on Vehicular Technology***, 2024, 73(12): 18266 - 18282. [[paper](https://ieeexplore.ieee.org/document/10666713)] [[code](https://github.com/BotWhiz/APMC-LOM)]
 
 + [12] Q. Qiu, **H. Gao**, W. Hua, G. Huang, and X. He. PriorLane: A prior knowledge enhanced lane detection approach based on transformer, ***IEEE International Conference on Robotics and Automation (ICRA)***, pp. 5618-5624, 2023. [[paper](https://ieeexplore.ieee.org/document/10161356)] [[code](https://github.com/vincentqqb/PriorLane)]
 
-+ [13] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Trans. on Automation Science and Engineering***, 2022, 19(4): 2762-2775. [[paper](https://ieeexplore.ieee.org/document/9627934)]
++ [13] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(4): 2762-2775. [[paper](https://ieeexplore.ieee.org/document/9627934)]
 
-+ [14] C. Li, X. Zhang\*, **H. Gao**, R. Wang, and Y. Fang. Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Trans. on Automation Science and Engineering***, 2022, 19(3): 2245-2255. [[paper](https://ieeexplore.ieee.org/document/9392367)]
++ [14] C. Li, X. Zhang\*, **H. Gao**, R. Wang, and Y. Fang. Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(3): 2245-2255. [[paper](https://ieeexplore.ieee.org/document/9392367)]
 
-+ [15] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Trans. on Instrumentation and Measurement***, 2020, 69(7): 4222-4237. [[paper](https://ieeexplore.ieee.org/document/8882497)]
++ [15] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Transactions on Instrumentation and Measurement***, 2020, 69(7): 4222-4237. [[paper](https://ieeexplore.ieee.org/document/8882497)]
 
 + [16] Q. Qiu, S. Zhang, **H. Gao**, H. Yang, H. Ying, W. Wang, and X. He. EMVP: Embracing visual foundation model for visual place recognition with centroid-free probing, ***Advances in Neural Information Processing Systems(NeurIPS)***, 2024, accepted. 
 
