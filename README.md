@@ -46,25 +46,27 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 
 + [10] Q. Qiu, H. Yang, J. Jiang, S. Zhang, H. Ying, **H. Gao**, W. Wang, and X. He. M³CS: Multi-target masked point modeling with learnable codebook and siamese decoders, ***IEEE Transactions on Circuits and Systems for Video Technology***, 2025, doi: 10.1109/TCSVT.2025.3553525. [[paper](https://ieeexplore.ieee.org/document/10937188)]
 
-+ [11] H Liu, **H. Gao**, J. Shi, C. Xu, D. Qu, and W. Hua. APMC-LOM: Accurate 3D LiDAR odometry and mapping based on pyramid warm-up registration and multi-constraint optimization. ***IEEE Transactions on Vehicular Technology***, 2024, 73(12): 18266 - 18282. [[paper](https://ieeexplore.ieee.org/document/10666713)] [[code](https://github.com/BotWhiz/APMC-LOM)]
++ [11] Y. Song, R. Wang, Q. Bi, Z. Pan, **H. Gao**, and X. Zhang. STVO: Spatial-temporal constrained velocity obstacle for safe navigation among pedestrians. ***IEEE Transactions on Vehicular Technology***, 2025, doi: 10.1109/TVT.2025.3565734. [[paper](https://ieeexplore.ieee.org/document/10980470)] [[video](https://youtu.be/xt4KosuPMYs)]
 
-+ [12] Q. Qiu, **H. Gao**, W. Hua, G. Huang, and X. He. PriorLane: A prior knowledge enhanced lane detection approach based on transformer, ***IEEE International Conference on Robotics and Automation (ICRA)***, pp. 5618-5624, 2023. [[paper](https://ieeexplore.ieee.org/document/10161356)] [[code](https://github.com/vincentqqb/PriorLane)]
++ [12] H Liu, **H. Gao**, J. Shi, C. Xu, D. Qu, and W. Hua. APMC-LOM: Accurate 3D LiDAR odometry and mapping based on pyramid warm-up registration and multi-constraint optimization, ***IEEE Transactions on Vehicular Technology***, 2024, 73(12): 18266 - 18282. [[paper](https://ieeexplore.ieee.org/document/10666713)] [[code](https://github.com/BotWhiz/APMC-LOM)]
 
-+ [13] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(4): 2762-2775. [[paper](https://ieeexplore.ieee.org/document/9627934)]
++ [13] Q. Qiu, **H. Gao**, W. Hua, G. Huang, and X. He. PriorLane: A prior knowledge enhanced lane detection approach based on transformer, ***IEEE International Conference on Robotics and Automation (ICRA)***, pp. 5618-5624, 2023. [[paper](https://ieeexplore.ieee.org/document/10161356)] [[code](https://github.com/vincentqqb/PriorLane)]
 
-+ [14] C. Li, X. Zhang\*, **H. Gao**, R. Wang, and Y. Fang. Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(3): 2245-2255. [[paper](https://ieeexplore.ieee.org/document/9392367)]
++ [14] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. E³MoP: Efficient motion planning based on heuristic-guided motion primitives pruning and path optimization with sparse-banded structure, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(4): 2762-2775. [[paper](https://ieeexplore.ieee.org/document/9627934)]
 
-+ [15] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Transactions on Instrumentation and Measurement***, 2020, 69(7): 4222-4237. [[paper](https://ieeexplore.ieee.org/document/8882497)]
++ [15] C. Li, X. Zhang\*, **H. Gao**, R. Wang, and Y. Fang. Bridging the gap between visual servoing and visual SLAM: A novel integrated interactive framework, ***IEEE Transactions on Automation Science and Engineering***, 2022, 19(3): 2245-2255. [[paper](https://ieeexplore.ieee.org/document/9392367)]
 
-+ [16] Q. Qiu, S. Zhang, **H. Gao**, H. Yang, H. Ying, W. Wang, and X. He. EMVP: Embracing visual foundation model for visual place recognition with centroid-free probing, ***Advances in Neural Information Processing Systems(NeurIPS)***, 2024, accepted. 
++ [16] J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. CAE-RLSM: Consistent and efficient redundant line segment merging for online feature map building, ***IEEE Transactions on Instrumentation and Measurement***, 2020, 69(7): 4222-4237. [[paper](https://ieeexplore.ieee.org/document/8882497)]
 
-+ [17] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J].机器人,2020,42(06):641-650. [[论文](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXonRMFKNxjDxoxdhVwbsDLApY-eqH6_JAUvftlY0adeN-&uniplatform=NZKPT)]
++ [17] Q. Qiu, S. Zhang, **H. Gao**, H. Yang, H. Ying, W. Wang, and X. He. EMVP: Embracing visual foundation model for visual place recognition with centroid-free probing, ***Advances in Neural Information Processing Systems(NeurIPS)***, 2024, 37: 120928-120950.
 
-+ [18] J. Song, **H. Gao**, X. Zhang\*, W. Lin, and J. Liu. A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**) [[paper](https://ieeexplore.ieee.org/document/8610874)]
++ [18] 周光召,苑晶\*,**高海明**,孙沁璇,张雪波,俞诗卓.结构化环境下基于结构单元软编码的3维激光雷达点云描述子[J]. **机器人**,2020,42(06):641-650. [[论文](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXonRMFKNxjDxoxdhVwbsDLApY-eqH6_JAUvftlY0adeN-&uniplatform=NZKPT)]
 
-+ [19]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**) [[paper](https://ieeexplore.ieee.org/document/8621744)]
++ [19] J. Song, **H. Gao**, X. Zhang\*, W. Lin, and J. Liu. A global localization algorithm for mobile robots based on grid submaps, ***IEEE International Conference on Advanced Robotics and Mechatronics***, pp. 201-206, 2018. (**Best Conference Paper Finalist**) [[paper](https://ieeexplore.ieee.org/document/8610874)]
 
-+ [20] J. Wang, X. Zhang\*, **H. Gao**, and Y. Fang. Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. [[paper](https://ieeexplore.ieee.org/document/8324420)]
++ [20]  J. Wen, X. Zhang\*, **H. Gao**, J. Yuan, and Y. Fang. A novel 2D laser scan matching algorithm for mobile robots based on hybrid features, ***IEEE International Conference on Real-time Computing and Robotics***, pp. 366-371, 2018. (**Finalist for the Best Paper Award**) [[paper](https://ieeexplore.ieee.org/document/8621744)]
+
++ [21] J. Wang, X. Zhang\*, **H. Gao**, and Y. Fang. Time-optimal motion planning for a nonholonomic mobile robot on a barcode map, ***IEEE International Conference on Robotics and Biomimetics***, pp. 215-220, 2017. [[paper](https://ieeexplore.ieee.org/document/8324420)]
 
 + ...
 
